@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **database management and best practices in web development.**
 
-- 👯 I’m looking to collaborate on **web development projects, especially those that involve JavaScript, HTML, and CSS.**
+- 👯 I’m looking to collaborate on **web development projects, especially those that involve React.js, JavaScript, HTML and Python.**
 
 - 🤝 I’m looking for help with **improving my backend skills.**
 
