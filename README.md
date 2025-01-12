@@ -1,5 +1,7 @@
-<h1 align="center">Hi, I'm Florencia Acuña 👋</h1>
-<h3 align="center">A learning web developer from Uruguay</h3>
+<h1 align="center">Hi, I'm Florencia! 👋</h1>
+<h3 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+web+developer+from+Uruguay...;still+learning%2C+still+growing+%3A)" alt="Typing SVG" /></a>
+</h3>
 
 - 🔭 I’m currently working on **building challenging projects to sharpen my frontend and backend skills.**
 
