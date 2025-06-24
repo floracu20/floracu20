@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **building challenging projects to sharpen my frontend and backend skills.**
 
-- 🌱 I’m currently learning **database management and best practices in web development.**
+- 🌱 I’m currently exploring **database systems and best practices in web development — and I'm getting increasingly curious about how AI can be implemented in real-world solutions.**
 
-- 👯 I’m looking to collaborate on **web development projects, especially those that involve React.js, JavaScript, HTML and Python.**
+- 👯 I’m looking to collaborate on **challenging projects that aim to solve real problems — especially those that involve React.js, JavaScript, HTML, or Python.**
 
-- 🤝 I’m looking for help with **improving my backend skills.**
+- 🤝 I’m looking for support and mentorship to **improve my backend skills.**
 
-- ⚡ Fun fact: **when bored, I play Minesweeper.**
+- ⚡ Fun fact: **when bored, I play Minesweeper (quite good at it).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
